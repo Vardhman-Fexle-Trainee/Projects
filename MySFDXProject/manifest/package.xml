@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>DemoClass</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Demo__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Demo__c.First_Field__c</members>
+        <name>CustomFeild</name>
+    </types>
+    <version>62.0</version>
+</Package>
